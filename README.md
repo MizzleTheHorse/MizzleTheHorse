@@ -2,7 +2,7 @@ Welcome to my Github!
 
 My name is "Mizzle"  
 
-I am a Software Engineering student at SDUm, currently finishing my bachelors degree.
+I am a Software Engineering student at SDU, currently finishing my bachelors degree. done this summer 2023. 
 
 I enjoy working with Flask, Django, Docker and building projects as part of a microservices system. 
 
